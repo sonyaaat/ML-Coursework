@@ -1,0 +1,2 @@
+# ML_coursework
+This repository contains all my experiments for my coursework and future thesis work. The topic of my coursework and thesis is predicting salary expectations in the IT sector. It includes data preprocessing, model implementation, and performance validation for predicting salaries in the IT sector using various machine learning algorithms such as Linear Regression, Polynomial Regression, GridSearch, Decision Tree, and Random Forest. The experiments were conducted on International foreign dataset and salary data from DOU.ua for the years 2022-2024.
